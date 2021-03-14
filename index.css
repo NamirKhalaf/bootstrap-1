@@ -1,0 +1,29 @@
+body {
+padding: 20px;
+margin: 20px;
+height: 100%;
+width: 100%;
+background-color: #7fccff;
+
+}
+section {
+    width: 100%;
+    margin-top: 30px;
+}
+.card-title{
+    margin-top: 20px;
+    font-family: 'DotGothic16', sans-serif;
+    color: rgb(4, 4, 41);
+}
+.card-img-top{
+    border-radius: 20px;
+    
+
+    
+   
+}
+.card-text{
+    font-family: 'Merienda', cursive;
+    margin-top: 20px;
+
+}
